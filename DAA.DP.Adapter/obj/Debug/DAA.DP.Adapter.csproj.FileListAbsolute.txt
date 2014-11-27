@@ -1,0 +1,6 @@
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Adapter\DAA.DP.Adapter\bin\Debug\DAA.DP.Adapter.exe.config
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Adapter\DAA.DP.Adapter\obj\Debug\DAA.DP.Adapter.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Adapter\DAA.DP.Adapter\bin\Debug\DAA.DP.Adapter.exe
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Adapter\DAA.DP.Adapter\bin\Debug\DAA.DP.Adapter.pdb
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Adapter\DAA.DP.Adapter\obj\Debug\DAA.DP.Adapter.exe
+C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.Adapter\DAA.DP.Adapter\obj\Debug\DAA.DP.Adapter.pdb
